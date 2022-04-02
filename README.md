@@ -18,7 +18,7 @@
  * Then, you are ready to nom-nom your enemies.  
 
 ### Am I serious?
-They aren't joking, So do I
+They aren't joking, So am I
  
 # Supporters:
 *pull request and add your name here if you are a supporter to this project*
